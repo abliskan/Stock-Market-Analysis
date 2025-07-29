@@ -1,1 +1,1 @@
-# Cryptocurrency-Market-Analysis
+# (Near) Real-Time-Stock-Market-Analysis
