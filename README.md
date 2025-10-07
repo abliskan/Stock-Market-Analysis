@@ -1,3 +1,3 @@
-# Stock-Market-Analysis
+# Stock Market Sentimen Analysis
 ## 1. Introduction
 Stock markets are extremely volatile, and traders miss profitable opportunities due to delays in detecting sudden price spikes or drops. Existing tools refresh every few minutes, which is too slow in a market where seconds matter. In this project, we trying to build a real-time cryptocurrency market analysis system that provides actionable insights for trading decisions.
